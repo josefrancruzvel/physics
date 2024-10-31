@@ -3,7 +3,7 @@
 
 <h3>Open Source Society University</h3>
 <p>
-  :abacus: Path to a free self-taught education in Math!
+  :abacus: Path to a free self-taught education in Physics!
 </p>
 <p>
   <a href="https://github.com/open-source-society/math">
@@ -22,13 +22,13 @@
 
 # Summary
 
-The OSSU curriculum is a **complete education in mathematics** using online materials.
-It's for those who want a proper grounding in concepts fundamental to all math disciplines,
+The OSSU curriculum is a **complete education in physics** using online materials.
+It's for those who want a proper grounding in concepts fundamental to all physics disciplines,
 and for those who have the discipline, will, and good habits to obtain this education largely on their own,
 but with support from a worldwide community of fellow learners.
 
-It is designed according to the degree requirements of undergraduate math majors, minus general education (non-math) requirements,
-as it is assumed most of the people following this curriculum are already educated outside the field of math.
+It is designed according to the degree requirements of undergraduate physics majors, minus general education (non-physics) requirements,
+as it is assumed most of the people following this curriculum are already educated outside the field of physics.
 The courses themselves are among the very best in the world, often coming from Harvard, MIT, Stanford, etc.,
 but specifically chosen to meet the following criteria.
 
@@ -49,7 +49,7 @@ just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 - For simplicity, we recommend working through courses in order from top to bottom, as they have already been sorted by their prerequisites.
-- Courses in Core Mathematics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
+- Courses in Core Physics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
 - Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
@@ -71,17 +71,30 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-The curriculum is separated into two parts:
+The curriculum is divided into several sections. I highly suggest pairing a physics course with a math course at the same time.
 
-- [Core Mathematics](#core-mathematics)
-  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
-  - [Calculus](#calculus)
-  - [Introduction to Differential Equations](#introduction-to-differential-equations)
-  - [Discrete Mathematics](#discrete-mathematics)
-  - [Linear Algebra](#linear-algebra)
-  - [Probability & Statistics](#probability--statistics)
-  - [Introduction to Analysis](#introduction-to-analysis)
-  - [Introduction to Abstract Algebra](#introduction-to-abstract-algebra)
+1. **Mathematics Foundations**
+   -  [Calculus](#calculus)
+   -  [Linear Algebra](#linear-algebra)
+   -  [Multivariable Calculus](#multivariable-calculus)
+   -  [Differential Equations](#differential-equations)
+   -  [Introduction to Probability and Statistics](#introduction-to-probability-and-statistics)
+
+2. **Introductory Physics**
+   - [Physics I: Classical Mechanics](#physics-i-classical-mechanics)
+   - [Physics II: Electricity and Magnetism](#physics-ii-electricity-and-magnetism)
+   - [Physics III: Vibrations and Waves](#physics-iii-vibrations-and-waves)
+
+4. **Advanced Physics Courses**
+   - [Relativity](#relativity)
+   - [Quantum Physics II](#quantum-physics-ii)
+   - [Quantum Physics III](#quantum-physics-iii)
+   - [Electromagnetism II](#electromagnetism-ii)
+   - [Statistical Physics I](#statistical-physics-i)
+   - [Statistical Physics II](#statistical-physics-ii)
+   - [Classical Mechanics II](#classical-mechanics-ii)
+   - [Classical Mechanics III](#classical-mechanics-ii) 
+
 - [Advanced Topics](#advanced-topics)
   - [Differential Equations](#differential-equations)
   - [Mathematical Logic](#mathematical-logic)

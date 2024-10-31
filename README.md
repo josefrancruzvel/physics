@@ -40,7 +40,7 @@ but specifically chosen to meet the following criteria.
 
 When no course meets the above criteria, the coursework is supplemented with a book.
 
-**Duration**. It is possible to finish the curriculum within about 2 years if you plan carefully and devote roughly 18-22 hours/week to your studies.
+**Duration**. It is possible to finish the curriculum within about 2 years if you plan carefully and devote roughly 28-32 hours/week to your studies.
 
 **Cost**. OSSU strives to identify free resources to reach your learning goal. However, some courses may charge money for assignments/tests/projects to be graded.
 
@@ -113,14 +113,112 @@ The curriculum is divided into several sections.
 
 ### Essential Calculus Principles
 Getting a good handle on derivatives and integrals is super important for understanding physics. Here, the goal isn't to solve problems or crunch numbers; it's about getting these concepts so you can see how they play out in your first physics course. Plus, these videos will come in handy when you dive into the calculus course later on!
+
 Check out these two short videos to get started:
+
 [Derivatives: Crash Course Physics](https://youtu.be/ObHJJYvu3RE?list=RDQMdjC5T9Ac8J)
-[Integrals: Crash Course Physics]((https://www.youtube.com/watch?v=jLJLXka2wEM&list=RDQMdjC5T9Ac8Jg&index=2))
+
+[Integrals: Crash Course Physics](https://www.youtube.com/watch?v=jLJLXka2wEM)
 
 ### How Things Work: An Introduction to Physics
 This free course on Coursera from the University of Virginia is a great way to explore the physics of everyday life. It’s designed to help you build your “physics reasoning,” which will really help you in your upcoming courses.
+
 You can check it out here:
-[Derivatives: Crash Course Physics](https://www.coursera.org/learn/how-things-work)
+
+[How Things Work: An Introduction to Physics](https://www.coursera.org/learn/how-things-work)
+
+## Introductory Physics
+
+All classes under Introductory Physics are **required**, unless stated otherwise.
+
+### Physics I: Classical Mechanics 
+Welcome to *Physics I: Classical Mechanics*! Get ready to dive into the fundamental principles that govern motion and interactions in our universe. In this course, you’ll explore Newton's laws, energy, and momentum, unraveling the mysteries of why objects move the way they do.
+You should take this course at the same time as Calculus and linear algebra, as the mathematical concepts will greatly enhance your understanding of the physical principles.
+
+**Topics Covered:**
+
+`Introduction to Physics and Measurement`  
+`Kinematics`  
+`Dynamics`  
+`Work and Energy`  
+`Momentum`  
+`Rotational Motion`  
+`Oscillations and Waves`  
+`Gravitation`  
+`Mechanical Systems`  
+
+The book used throughout the course is Physics by Ohanian, Vol 1, 2nd Edition. 
+
+I highly recommend completing all the assignments and exams for the course (the links are provided in the videos). 
+
+It’s also a great idea to study the contents from the book and the Help Sessions to reinforce your understanding of the material.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Walter Lewin's Lectures](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e) | 12 weeks | 12-15 hours/week | [high school math]
+[Walter Lewin's MIT Help Sessions](https://www.youtube.com/playlist?list=PLyQSN7X0ro23IUORJBSDBH8AUWZ1mQBna)|   |   |  
+
+
+### Physics II: Electricity and Magnetism
+
+Welcome to *Physics II: Electricity and Magnetism*! Get ready to explore the fascinating world of electric forces, magnetic fields, and how they interact with matter. In this course, you’ll delve into concepts like electric charge, Coulomb's law, and electromagnetic induction, gaining insights into the fundamental forces that shape our universe.
+
+You should take this course at the same time as Calculus, as the mathematical concepts will greatly enhance your understanding of the physical principles.
+
+**Topics Covered:**
+
+`Electric Charge and Electric Field`  
+`Electric Potential and Voltage`  
+`Capacitance and Dielectrics`  
+`Current and Resistance`  
+`Circuits`  
+`Magnetic Fields`  
+`Electromagnetic Induction`  
+`Maxwell's Equations`  
+`Electromagnetic Waves`  
+
+The book used throughout the course is Physics for Scientists and Engineers by Douglas C. Giancoli 
+
+I highly recommend completing all the assignments and exams for the course (the links are provided in the videos). 
+
+It’s also a great idea to study the contents from the book and the Help Sessions to reinforce your understanding of the material.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Walter Lewin's Lectures](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e) | 12 weeks | 12-15 hours/week | [high school math]  
+[Walter Lewin's MIT Help Sessions](https://www.youtube.com/playlist?list=PLyQSN7X0ro200pTRGPkPp4kBEzFrSbZ3c)|   |   |  
+
+
+### Physics III: Vibrations and Waves
+
+Welcome to *Physics III: Vibrations and Waves*! Get ready to dive into the dynamic behavior of oscillating systems and wave phenomena. In this course, you’ll study harmonic motion, wave properties, sound, and light, uncovering the principles that govern how energy travels through different media.
+
+You should take this course at the same time as Calculus, as the mathematical concepts will greatly enhance your understanding of the physical principles.
+
+**Topics Covered:**
+
+`Simple Harmonic Motion`  
+`Wave Properties`  
+`Sound Waves`  
+`Superposition and Interference`  
+`Standing Waves and Resonance`  
+`Wave Behavior (Reflection, Refraction, Diffraction)`  
+`Electromagnetic Waves`  
+`Applications of Waves in Technology`  
+
+The book used throughout the course is *Physics* by Ohanian, Vol 1, 2nd Edition. 
+
+I highly recommend completing all the assignments and exams for the course (the links are provided in the videos). 
+
+It’s also a great idea to study the contents from the book to reinforce your understanding of the material.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Walter Lewin's Lectures](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e) | 12 weeks | 12-15 hours/week | [high school math]  
+
+---
+
+Feel free to adjust any details or let me know if you need more modifications!
 
 
 ## Mathematics Foundations

@@ -49,8 +49,9 @@ just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 - For simplicity, we recommend working through courses in order from top to bottom, as they have already been sorted by their prerequisites.
-- Courses in Core Physics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
-- Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
+- I highly suggest pairing a physics course with a math course at the same time.
+- Courses in Mathematics foundations, intrudoctory physics and advanced phyisics are the basic requirements for all OSSU Physics students and provide a foundation for deeper study. Take all of these courses.
+- Courses in  electives: Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Respect the code of conduct that you sign in the beginning of each course!*
@@ -71,21 +72,22 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-The curriculum is divided into several sections. I highly suggest pairing a physics course with a math course at the same time.
-
-1. **Mathematics Foundations**
+The curriculum is divided into several sections. 
+0. **Getting Started: Key Concepts (Optional)**
+   -  [Essential Calculus Principles](#Essential-Calculus-Principles)
+   -  [How Things Work: An Introduction to Physics](#How-Things-Work:-An-Introduction-to-Physics)
+1. **Introductory Physics**
+   - [How Things Work: An Introduction to Physics](#How-Things-Work:-An-Introduction-to-Physics)
+   - [Physics I: Classical Mechanics](#physics-i-classical-mechanics)
+   - [Physics II: Electricity and Magnetism](#physics-ii-electricity-and-magnetism)
+   - [Physics III: Vibrations and Waves](#physics-iii-vibrations-and-waves)
+2. **Mathematics Foundations**
    -  [Calculus](#calculus)
    -  [Linear Algebra](#linear-algebra)
    -  [Multivariable Calculus](#multivariable-calculus)
    -  [Differential Equations](#differential-equations)
    -  [Introduction to Probability and Statistics](#introduction-to-probability-and-statistics)
-
-2. **Introductory Physics**
-   - [Physics I: Classical Mechanics](#physics-i-classical-mechanics)
-   - [Physics II: Electricity and Magnetism](#physics-ii-electricity-and-magnetism)
-   - [Physics III: Vibrations and Waves](#physics-iii-vibrations-and-waves)
-
-3. **Advanced Physics Courses**
+4. **Advanced Physics**
    - [Relativity](#relativity)
    - [Quantum Physics II](#quantum-physics-ii)
    - [Quantum Physics III](#quantum-physics-iii)
@@ -95,7 +97,7 @@ The curriculum is divided into several sections. I highly suggest pairing a phys
    - [Classical Mechanics II](#classical-mechanics-ii)
    - [Classical Mechanics III](#classical-mechanics-iii) 
 
-4. **Electives**
+5. **Electives**
     ~Aeronautics
    - [Unified Engineering I, II, III, & IV](#Unified-Engineering-I,-II,-III,-&IV)
    - [Aircraft Systems Engineering](#Aircraft-Systems-Engineering)
@@ -107,21 +109,23 @@ The curriculum is divided into several sections. I highly suggest pairing a phys
   - [Mathematical Analysis](#mathematical-analysis)
   - [Abstract Algebra](#abstract-algebra)
   
-## Core Mathematics
+## Getting Started: Key Concepts (Optional)
 
-All classes under Core Mathematics are **required**, unless stated otherwise.
+### Essential Calculus Principles
+Getting a good handle on derivatives and integrals is super important for understanding physics. Here, the goal isn't to solve problems or crunch numbers; it's about getting these concepts so you can see how they play out in your first physics course. Plus, these videos will come in handy when you dive into the calculus course later on!
+Check out these two short videos to get started:
+[Derivatives: Crash Course Physics](https://youtu.be/ObHJJYvu3RE?list=RDQMdjC5T9Ac8J)
+[Integrals: Crash Course Physics]((https://www.youtube.com/watch?v=jLJLXka2wEM&list=RDQMdjC5T9Ac8Jg&index=2))
 
-### Introduction to Mathematical Thinking
-Most people's views of mathematics are destroyed in school by focusing on memorization and regurgitation. But mathematicians see math as an elegant way to explain the world around us. This class covers how to think like a mathematician and solve problems. 
+### How Things Work: An Introduction to Physics
+This free course on Coursera from the University of Virginia is a great way to explore the physics of everyday life. It’s designed to help you build your “physics reasoning,” which will really help you in your upcoming courses.
+You can check it out here:
+[Derivatives: Crash Course Physics](https://www.coursera.org/learn/how-things-work)
 
-**Topics covered:**
-`Mathematical mindset`
-`Number Theory`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
-[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none
+## Mathematics Foundations
+
+All classes under Mathematics Foundations are **required**, unless stated otherwise.
 
 ### Calculus 
 Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.

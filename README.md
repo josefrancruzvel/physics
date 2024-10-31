@@ -73,11 +73,11 @@ just remember that you can't purchase success!
 # Curriculum
 
 The curriculum is divided into several sections. 
+
 0. **Getting Started: Key Concepts (Optional)**
    -  [Essential Calculus Principles](#Essential-Calculus-Principles)
    -  [How Things Work: An Introduction to Physics](#How-Things-Work:-An-Introduction-to-Physics)
 1. **Introductory Physics**
-   - [How Things Work: An Introduction to Physics](#How-Things-Work:-An-Introduction-to-Physics)
    - [Physics I: Classical Mechanics](#physics-i-classical-mechanics)
    - [Physics II: Electricity and Magnetism](#physics-ii-electricity-and-magnetism)
    - [Physics III: Vibrations and Waves](#physics-iii-vibrations-and-waves)

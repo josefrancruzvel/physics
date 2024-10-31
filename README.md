@@ -85,7 +85,7 @@ The curriculum is divided into several sections. I highly suggest pairing a phys
    - [Physics II: Electricity and Magnetism](#physics-ii-electricity-and-magnetism)
    - [Physics III: Vibrations and Waves](#physics-iii-vibrations-and-waves)
 
-4. **Advanced Physics Courses**
+3. **Advanced Physics Courses**
    - [Relativity](#relativity)
    - [Quantum Physics II](#quantum-physics-ii)
    - [Quantum Physics III](#quantum-physics-iii)
@@ -93,10 +93,14 @@ The curriculum is divided into several sections. I highly suggest pairing a phys
    - [Statistical Physics I](#statistical-physics-i)
    - [Statistical Physics II](#statistical-physics-ii)
    - [Classical Mechanics II](#classical-mechanics-ii)
-   - [Classical Mechanics III](#classical-mechanics-ii) 
+   - [Classical Mechanics III](#classical-mechanics-iii) 
 
-- [Advanced Topics](#advanced-topics)
-  - [Differential Equations](#differential-equations)
+4. **Electives**
+    ~Aeronautics
+   - [Unified Engineering I, II, III, & IV](#Unified-Engineering-I,-II,-III,-&IV)
+   - [Aircraft Systems Engineering](#Aircraft-Systems-Engineering)
+    ~Theoretical physics
+  - [Unified Engineering I, II, III, & IV](#differential-equations)
   - [Mathematical Logic](#mathematical-logic)
   - [Geometry and Topology](#geometry-and-topology)
   - [Probability and Statistics](#probability-and-statistics)
